@@ -1,4 +1,4 @@
-## Hey! there, it's me Ashish(McAsh)👋
+## Yolo! It's me Ashish(McAsh)👋
 
 <img src="https://media.giphy.com/media/zWHvoItO4JWn7pkC4W/source.gif" width="300" align='right'>
 <br/>
