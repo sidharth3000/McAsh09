@@ -1,6 +1,6 @@
 ## Hey! there, it's me Ashish(McAsh)👋
 
-<img src="https://media1.tenor.com/images/9d0cb0eda3bece076b73f488a52238f5/tenor.gif" width="300" align='right'>
+<img src="https://tenor.com/view/izuku-midoriya-my-hero-academia-boku-no-hero-academia-mha-bnha-gif-16724638" width="300" align='right'>
 <br/>
 
 - 🔭 I’m a sophomore at IIITV persuing Computer Science.
