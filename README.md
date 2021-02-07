@@ -4,7 +4,7 @@
 <br/>
 
 - 🔭 I’m a sophomore at IIITV persuing Computer Science.
-- 🌱 Nowdays I'm learning Javascript and CSS.
+- 🌱 Nowadays I'm learning Javascript and CSS.
 - 💬 I do competitive programming using Java(Hit me up if you have any questions).
 - ⚡ Fun fact: Other than programming, I love watching anime and playing FPS games.
 
