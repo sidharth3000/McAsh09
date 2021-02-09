@@ -22,11 +22,12 @@
 <br/>
 
 
+![My github stats](https://github-readme-stats.vercel.app/api?username=mcash09&show_icons=true&theme=synthwave)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mcash09)
 <br/>
 <br/>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcash09&hide=html,css&layout=compact" />
 
 
 ![visitor Count](https://visitor-badge.laobi.icu/badge?page_id=mcash09.mcash09)<img src="https://media.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif" width="30">
