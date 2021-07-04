@@ -22,8 +22,8 @@
 <br/>
 
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=mcash09&count_private=true&show_icons=true&theme=synthwave&include_all_commits=true)
-
+<!-- ![My github stats](https://github-readme-stats.vercel.app/api?username=mcash09&count_private=true&show_icons=true&theme=synthwave&include_all_commits=true)
+ -->
 ![My github stats](https://github-readme-stats.vercel.app/api?username=mcash09&count_private=true&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mcash09)
