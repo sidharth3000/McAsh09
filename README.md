@@ -1,11 +1,11 @@
-## Yolo! It's me Ashish(McAsh)👋
+## Yolo! It's me Ashish👋
 
 <img src="https://media.giphy.com/media/zWHvoItO4JWn7pkC4W/source.gif" width="300" align='right'>
 <br/>
 
-- 🔭 I’m a sophomore at IIITV pursuing Computer Science.
-- 🌱 Nowadays I'm learning Javascript and CSS.
-- 💬 I do competitive programming using Java(Hit me up if you have any questions).
+- 🔭 I’m a pre-final year student at IIITV pursuing Computer Science.
+- 🌱 Nowadays I'm learning Nodejs.
+- 💬 I do competitive programming using C++.
 - ⚡ Fun fact: Other than programming, I love watching anime and playing FPS games.
 
 
